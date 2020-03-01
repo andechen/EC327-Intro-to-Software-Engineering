@@ -19,13 +19,16 @@ Homework 3
 
 Lab 1 & Lab 2
   - UNIX Terminal Commands
+ 
 Lab 3
   - Functions
   - User I/O
   - Conditional Statements
   - Loops
+
 Lab 4
   - Header Files
+
 Lab 5
   - File I/O
   - Arrays
